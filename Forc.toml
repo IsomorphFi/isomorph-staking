@@ -1,0 +1,11 @@
+[project]
+authors = ["Your Name"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "liquid-staking"
+
+[dependencies]
+fuels = { version = "0.43.0" }
+
+[[test.unit]]
+path = "tests/harness.rs"
