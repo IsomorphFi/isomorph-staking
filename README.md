@@ -41,12 +41,12 @@ forc build
 
 ```
 isomorph-staking/
-├── Forc.toml           # Project configuration
+├── Forc.toml           
 ├── src/
-│   └── main.sw         # Main staking contract
+│   └── main.sw         
 ├── tests/
-│   └── harness.rs      # Test suite
-└── README.md           # This file
+│   └── harness.rs    
+└── README.md           
 ```
 
 ## Smart Contracts
