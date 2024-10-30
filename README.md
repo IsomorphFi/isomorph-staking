@@ -1,6 +1,6 @@
 # Isomorph Staking Protocol
 
-![logo image](https://imgur.com/a/MTUDSAY)
+![logo image](logo.png)
 
 Isomorph Staking is a liquid staking protocol built on Fuel Network that enables users to stake ETH and receive liquid staking tokens (isoTokens) in return. These tokens represent your staked ETH and can be used across DeFi applications while your original stake continues to earn rewards.
 
