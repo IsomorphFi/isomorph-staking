@@ -82,10 +82,10 @@ forc deploy --url <network-url>
 
 2. Interact with the contract:
 ```bash
-# Example stake transaction
+# stake transaction
 forc run --url <network-url> stake --amount 1000
 
-# Example unstake transaction
+# unstake transaction
 forc run --url <network-url> unstake --amount 500
 ```
 
@@ -157,9 +157,9 @@ For questions and support:
 
 ## Acknowledgments
 
-- Fuel Network
-- Sway Language Documentation
-- The Fuel Developer Community
+- Fuel Network [https://fuel.network]
+- Sway Language Documentation [https://fuellabs.github.io/sway/v0.66.2/book/]
+- The Fuel Developer Community [https://forum.fuel.network/]
 
 ---
 
